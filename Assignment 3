@@ -1,0 +1,8 @@
+# Create an example on string template class
+
+print("Hello {0}, Welcome {1}".format("World","Princess"))
+
+num1=int(input("Enter First Number: "))
+num2=int(input("Enter Second Number: "))
+
+print(f"The multiplication of the two numbers is: {num1*num2}")
